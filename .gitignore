@@ -1,0 +1,24 @@
+﻿# Archivos de configuración local
+config/db.php
+
+# Archivos temporales
+*.tmp
+*.log
+*.cache
+
+# Carpeta de imágenes (opcional - si quieres subir imágenes, comenta esta línea)
+# img/
+
+# Archivos de prueba
+prueba_*.php
+test_*.php
+
+# Configuración de editor
+.vscode/
+.idea/
+*.suo
+*.user
+
+# Archivos del sistema
+.DS_Store
+Thumbs.db
